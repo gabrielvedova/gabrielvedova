@@ -1,11 +1,10 @@
-  <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-<p align="center">Procuro sempre me inovar e evoluir. <br><br> Atualmente sou estudante tecnico em Desenvolvimento de Sistemas pelo Porto Digital, <strong>penso em seguir na área de engenharia de software</strong>. Hoje, eu sou um estudante sempre em busca de aprender.</p>&nbsp;
+<h2 align="center">Procuro sempre me inovar e evoluir.</h2> <br><br> <p align="center"> Atualmente sou estudante tecnico em Desenvolvimento de Sistemas pelo Porto Digital, <strong>penso em seguir na área de engenharia de software</strong>. Hoje, eu sou um estudante sempre em busca de aprender.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielvedova&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-gabrielvedova.vercel.app/api/top-langs/?username=gabrielvedova&show_icons=true&theme=radical&layout=compact" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielvedova&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Vedova github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvedova&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
  </div>
  
  &nbsp;
@@ -13,7 +12,7 @@
 
 
 
-## My Skills
+## Minhas Habilidades
 
 #### Tenho mais domínio:
 
@@ -47,3 +46,5 @@
 <div> 
 <a href = "mailto:contato.bielvedova@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabrielvedova/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
