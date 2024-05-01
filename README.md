@@ -1,7 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-<h2 align="center">Procuro sempre me inovar e evoluir.</h2> <br><br> <p align="center"> Atualmente sou estudante tecnico em Desenvolvimento de Sistemas pelo Porto Digital, <strong>penso em seguir na área de engenharia de software</strong>. Hoje, eu sou um estudante sempre em busca de aprender.</p>&nbsp;
-
+## *"The man is nothing more than what education makes him"* - Immanuel Kant
+<br><br>
+ <img align="right" src="https://www.consultoriarr.com.br/wp-content/uploads/2023/09/Screenshot_1-7.png" width="450px">
+ - Hello I'm Gabiel Vedova 
+ - Born in 2009
+ - System Developer Student
+ - Software Engineer
+ - Back-End Developer
+ - I don't have difficult to job in team
+ - I'll always study for to evolve
+ <br><br><br><br><br><br>
 <div  align="center" style="margin-bottom:100px">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielvedova&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Vedova github stats" /> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvedova&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
