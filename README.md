@@ -2,16 +2,16 @@
 
 ## *"The man is nothing more than what education makes him"* - Immanuel Kant
 <br><br>
- <img align="right" src="https://www.consultoriarr.com.br/wp-content/uploads/2023/09/Screenshot_1-7.png" width="450px">
- - Hello I'm Gabiel Vedova 
+ <img align="right" src="img.jpeg" width="400px">
+ - Hello I'm Gabiel Vedova
  - Born in 2009
  - System Developer Student
  - Software Engineer
  - Back-End Developer
  - I don't have difficult to job in team
  - I'll always study for to evolve
- <br><br><br><br><br><br>
-<div  align="center" style="margin-bottom:100px">
+ <br><br><br><br><br><br><br><br><br><br><br><br>
+<div align="center" style="margin-bottom:100px">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielvedova&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Vedova github stats" /> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvedova&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
  </div>
@@ -21,15 +21,15 @@
 
 
 
-## Minhas Habilidades
+## My Skills
 
-#### Tenho mais domínio:
+#### Have More Domain:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Domínio básico:
+#### Basic Domain:
 
 ![C](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -39,11 +39,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
-#### Estudando no momento:
+#### Studying in the moment:
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-#### Ferramentas de Trabalho:
+#### Work Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/android-4EA94B?style=for-the-badge&logo=android&logoColor=white)&nbsp;
@@ -52,7 +53,7 @@
 &nbsp;
 &nbsp;
 
-## Contatos:
+## Contacts:
 
 <div> 
 <a href = "mailto:contato.bielvedova@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
