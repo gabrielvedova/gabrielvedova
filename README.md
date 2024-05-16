@@ -10,7 +10,7 @@
 - 📅 Born in 2009
 - 🎓 System Developer Student
 - 👨‍💻 Software Engineer
-- 🚀 Back-End Developer
+- 🚀 Front-End Developer
 - 🤝 Comfortable working in a team
 - 📚 Always studying to evolve
 
